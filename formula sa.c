@@ -1,3 +1,9 @@
+/*
+    Name:Eunice Mwende
+    Reg:CT100/G/26231/25
+    Description:Surface area Formula
+*/
+
 #include <stdio.h>
 
 int main() {
@@ -21,4 +27,5 @@ int main() {
     }
 
     return 0;
+
 }
